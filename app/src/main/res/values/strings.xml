@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+
+    <!-- Botones -->
+    <string name="btnguardar">Guardar datos</string>
+    <string name="btnmostrar">Mostrar datos</string>
+    <!--Checkbox-->
+    <string name="cbvip">¿Eres vip?</string>
+    <string name="cerrarsesion">Cerrar Sesion</string>
+</resources>
